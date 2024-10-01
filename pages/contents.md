@@ -1,0 +1,4 @@
+- [[Person]]
+- Place
+- [[Thing]]
+- Idea
